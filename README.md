@@ -1,5 +1,6 @@
 # Investment Portfolio Management
 CPSC 304 - Group 28
+
 This project revolves around the concept of an investment management firm. As a business that invests clients’ funds to return profits, our main focus is on storing the data in the customers’ portfolio. The benefit of having a database for this application is that we are able to store the client's portfolio, manager’s information and relationship between them as well as store the information of securities purchased by us such as the quantity and type of securities purchased.
 
 
