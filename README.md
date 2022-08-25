@@ -11,8 +11,6 @@ The application is solely written for the business that will be managing these p
 
 We will be working using CPSC department’s Oracle database system with HTML/PHP for the front end. We do not anticipate any additional hardware/software at this point in time.
 
-ABOUT UPCOMING DEMO
-
 In order to save time inserting all sample datasets during the demo, we will be inserting necessary datasets for our queries prior to the presentation. We will then carry out operations according to the lead TA's instructions.
 
 Collaborators: Daniel Chan, Pulkit Gandhi, Yan Naing Win
