@@ -1,0 +1,4 @@
+Make sure you include the function name and relation's name in front with "_" (underscore) when naming attributes.
+
+For example, if you are naming the attribute ID of Client relation when you are inserting, name it as "ins_client_ID" (ins means INSERT). This makes it easier to identify which relation this ID is referring to when
+you will eventually deal with many IDs later.

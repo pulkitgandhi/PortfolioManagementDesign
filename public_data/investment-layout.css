@@ -1,0 +1,246 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Indie Flower', cursive;
+}
+
+.menu {
+    background-color: black;
+    display: flex;
+    width: 100%;
+}
+
+.menu .title {
+    flex: 1;
+    text-align: left;
+    color: white;
+    padding-left: 3em;
+    padding-top: 8px;
+    font-size: 20px;
+}
+
+nav {
+    display: flex;
+    text-align: right;
+    padding-left: 30%;
+}
+
+nav p {
+    font-size: 20px;
+    color: white;
+    padding: 30px 20px 30px 30px;
+}
+
+nav a {
+    font-size: 20px;
+    color: white;
+    padding: 30px 20px 30px 30px;
+}
+
+.reset_reload {
+    display: flex;
+    align-items: center;
+}
+
+.reset_web {
+    text-align: center;
+    flex: 1;
+}
+
+.reload_web {
+    text-align: center;
+    flex: 1;
+}
+
+.client_management {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.insert_client {
+    flex: 1;
+}
+
+.remove_client {
+    flex: 1;
+}
+
+.update_client {
+    flex: 1;
+}
+
+.count_client {
+    flex: 1;
+}
+
+.display_client {
+    flex: 1;
+}
+
+.retrieve_client {
+    flex: 1;
+}
+
+.find_client {
+    flex: 1;
+}
+
+.banking_management {
+    display: flex;
+    text-align: center;
+}
+
+.insert_banks {
+    flex: 1;
+}
+
+.remove_banks {
+    flex: 1;
+}
+
+.insert_accounts {
+    flex: 1;
+}
+
+.remove_accounts {
+    flex: 1;
+}
+
+.display_accounts {
+    flex: 1;
+}
+
+.portfolio_management {
+    display: flex;
+    height: fit-content;
+    text-align: center;
+}
+
+.insert_portfolio {
+    flex: 1;
+}
+
+.display_senior_manager {
+    flex: 1;
+}
+
+.display_manager_performance {
+    flex: 1;
+}
+
+.remove_portfolio {
+    flex: 1;
+}
+
+.display_portfolio {
+    flex: 1;
+}
+
+.insert_manager {
+    flex: 1;
+}
+
+.remove_manager {
+    flex: 1;
+}
+
+.assign_portfolio {
+    flex: 1;
+}
+
+.update_portfolio_assignment {
+    flex: 1;
+}
+
+.view_assignment {
+    flex: 1;
+}
+
+.insert_SELocation {
+    flex: 1;
+}
+
+.insert_StockExchange {
+    flex: 1;
+}
+
+.remove_StockExchange {
+    flex: 1;
+}
+
+.insert_Company {
+    flex: 1;
+}
+
+.remove_Company {
+    flex: 1;
+}
+
+.insert_Security {
+    flex: 1;
+}
+
+.display_Security {
+    flex: 1;
+}
+
+.insert_Stock {
+    flex: 1;
+}
+
+.insert_Options {
+    flex: 1;
+}
+
+.create_Order {
+    flex: 1;
+}
+
+.view_Order {
+    flex: 1;
+}
+
+.make_Order {
+    flex: 1;
+}
+
+.view_C_Order {
+    flex: 1;
+}
+
+.select_com_se {
+    text-align: center;
+}
+
+.selection_col {
+    display: flex;
+    text-align: center;
+}
+
+.sel_com_part {
+    text-align: center;
+}
+
+.sel_se_part {
+    text-align: center;
+}
+
+.cond_com_part {
+    text-align: center;
+}
+
+.cond_se_part {
+    text-align: center;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
