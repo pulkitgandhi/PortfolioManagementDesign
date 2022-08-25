@@ -1,6 +1,6 @@
 # Investment Portfolio Management
-
-Our project revolves around the concept of an investment management firm. As a business that invests clients’ funds to return profits, our main focus is on storing the data in the customers’ portfolio. The benefit of having a database for this application is that we are able to store the client's portfolio, manager’s information and relationship between them as well as store the information of securities purchased by us such as the quantity and type of securities purchased.
+CPSC 304 - Group 28
+This project revolves around the concept of an investment management firm. As a business that invests clients’ funds to return profits, our main focus is on storing the data in the customers’ portfolio. The benefit of having a database for this application is that we are able to store the client's portfolio, manager’s information and relationship between them as well as store the information of securities purchased by us such as the quantity and type of securities purchased.
 
 
 A customer works with our company by creating one or more portfolios and add money using their bank accounts. In this way, we can receive a certain amount of funds that the client wants to invest. A customers’ portfolio consists of various securities that we invest on behalf of the clients. These include stocks and options that can return maximized profits to our customers.
