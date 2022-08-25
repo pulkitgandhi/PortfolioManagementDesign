@@ -1,4 +1,4 @@
-# Investment Portfolio Management (Daniel Chan, Pulkit Gandhi, Yan Naing Win)
+# Investment Portfolio Management
 
 Our project revolves around the concept of an investment management firm. As a business that invests clients’ funds to return profits, our main focus is on storing the data in the customers’ portfolio. The benefit of having a database for this application is that we are able to store the client's portfolio, manager’s information and relationship between them as well as store the information of securities purchased by us such as the quantity and type of securities purchased.
 
@@ -13,3 +13,5 @@ We will be working using CPSC department’s Oracle database system with HTML/PH
 ABOUT UPCOMING DEMO
 
 In order to save time inserting all sample datasets during the demo, we will be inserting necessary datasets for our queries prior to the presentation. We will then carry out operations according to the lead TA's instructions.
+
+Collaborators: Daniel Chan, Pulkit Gandhi, Yan Naing Win
